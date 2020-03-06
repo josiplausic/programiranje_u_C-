@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\Lab2\bin\Debug\Lab1.exe
+C:\Users\Asus\Desktop\Lab2\bin\Debug\Lab1.pdb
+C:\Users\Asus\Desktop\Lab2\obj\Debug\Lab1.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Lab2\obj\Debug\Lab1.exe
+C:\Users\Asus\Desktop\Lab2\obj\Debug\Lab1.pdb
