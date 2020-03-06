@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak1", "Zadatak1\Zadatak1.csproj", "{6CB7836D-0494-4393-8EA5-DD7663F96870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak2", "Zadatak2\Zadatak2.csproj", "{B5B96A80-1544-4575-BD06-4CD9056533F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak3", "Zadatak3\Zadatak3.csproj", "{F4828CD0-43BB-47F7-9223-81601880A3A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CB7836D-0494-4393-8EA5-DD7663F96870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CB7836D-0494-4393-8EA5-DD7663F96870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CB7836D-0494-4393-8EA5-DD7663F96870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CB7836D-0494-4393-8EA5-DD7663F96870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B96A80-1544-4575-BD06-4CD9056533F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B96A80-1544-4575-BD06-4CD9056533F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B96A80-1544-4575-BD06-4CD9056533F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B96A80-1544-4575-BD06-4CD9056533F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4828CD0-43BB-47F7-9223-81601880A3A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4828CD0-43BB-47F7-9223-81601880A3A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4828CD0-43BB-47F7-9223-81601880A3A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4828CD0-43BB-47F7-9223-81601880A3A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6968E884-9541-4A64-9FB0-003D60139621}
+	EndGlobalSection
+EndGlobal
